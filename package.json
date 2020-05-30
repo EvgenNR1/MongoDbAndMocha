@@ -1,0 +1,17 @@
+{
+  "name": "MongoDb_Mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.2",
+    "mongoose": "^5.9.15"
+  }
+}
